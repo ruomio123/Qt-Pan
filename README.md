@@ -14,3 +14,6 @@
      在双击目录函数里添加了一行代码更新当前所在路径， 
     TcpClient::getInstance().setStrCurPath(strNewPath);
     可以合并两个功能
+![image](https://github.com/ruomio123/Qt-Pan/assets/133988378/2889ad36-c009-4782-8d1e-479dd88dd174)
+![image](https://github.com/ruomio123/Qt-Pan/assets/133988378/aec67e2c-27bc-4258-b09b-fc40008b89aa)
+
